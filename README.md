@@ -1,6 +1,6 @@
 <h2> Welcome to my page 😄 </h2>
 
-<h4> 🌱 I’m a web & mobile developer </h4>
+<h4> 🌱 I’m a web & mobile developer app </h4>
 
 <h4> ⚡ My tech stack </h4>
 
