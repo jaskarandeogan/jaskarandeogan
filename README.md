@@ -1,4 +1,4 @@
-<h2> Welcome to my page 😄 </h2>
+<h2> Welcome to my Github 😄 </h2>
 
 <h4> 🌱 I’m a web & mobile app developer</h4>
 
