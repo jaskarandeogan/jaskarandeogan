@@ -31,7 +31,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Garden Intellignece
+- 🔭 I’m currently working with Felix Payement Systems.
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Homwchow, as startup idea.
 - 🤔 I’m looking for help with ...
