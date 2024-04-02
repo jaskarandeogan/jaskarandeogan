@@ -24,7 +24,7 @@
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:jaskaran2k15@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
-<a href='https://www.linkedin.com/in/jaskaranvir-deogan/'><img src='https://img.shields.io/badge/-LinkedIn-008AFF?style-for-the-badge&logo=linkedin&logoColor=ffffff'></a> 
+<a href='https://www.linkedin.com/in/jaskaran-deogan/'><img src='https://img.shields.io/badge/-LinkedIn-008AFF?style-for-the-badge&logo=linkedin&logoColor=ffffff'></a> 
 
 <!--
 **Jaskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
